@@ -9,7 +9,7 @@
  - I got hungry and I got a protein style hamburger 
  - took my grandpa to the doctor so he can pick up his meds  
 
-### Evening 
+### Evening ###
 1. took a nap
 2. went to the gym
 3. ate tacos for *dinner*
