@@ -1,6 +1,6 @@
 # Morning 
 # went to therapy 
-# went to school because ** my ipad was not working **
+# went to school because **my ipad was not working**
 
 ## Afternoon ##
 
