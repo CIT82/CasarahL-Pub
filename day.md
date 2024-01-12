@@ -1,13 +1,13 @@
 # Morning 
 # went to therapy 
-# went to school because ** my ipad was not working**
+# went to school because ** my ipad was not working **
 
-## Afternoon
+## Afternoon ##
 
-# - spent the day whole day with my grandpa 
-# - went to costco to order my contacts *because they got the best prices*
-# - I got hungry and I got a protein style hamburger 
-# - took my grandpa to the doctor so he can pick up his meds  
+ - spent the day whole day with my grandpa 
+ - went to costco to order my contacts *because they got the best prices*
+ - I got hungry and I got a protein style hamburger 
+ - took my grandpa to the doctor so he can pick up his meds  
 
 ### Evening 
 1. took a nap
