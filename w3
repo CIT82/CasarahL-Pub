@@ -3,8 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>My test page</title>
+    <title>My ai image</title>
   </head>
+  <link rel="stylesheet" href="style.css">
+  <h1>My AI image</h1>
   <body>
     <img src="ai image angel blowing a kiss.jpg" alt="My ai generated image" />
   </body>
