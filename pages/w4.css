@@ -1,4 +1,4 @@
-h1{
+pyh1{
     font-size: xx-large;
     color: rgb(5, 5, 85);
     margin: 0;
@@ -6,10 +6,30 @@ h1{
     text-align: center;
 }
 
+
 body{
     background-color: rgb(131, 187, 220);
+
 }
 
-label{
-    
+table {
+    border: 2px solid rgb(23, 22, 22);
+  }
+  
+  th,
+  td { 
+    border: 1px solid rgb(15, 14, 14);
+    animation: 2px solid rgb(15, 13, 13)
+  }
+
+  caption{
+    border: 2px solid rgb(8, 8, 8);
+  }
+
+  footer {
+  text-align: center;
+  padding: 0%;
+  background-color: #abbaba;
+  color: #000;
 }
+  
