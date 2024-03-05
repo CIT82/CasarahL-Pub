@@ -19,8 +19,8 @@ main{
     background-color: rgba(231, 177, 201, 0.726);
 }
 
-.outline{
-    border: 1px rgb(176, 172, 172) solid;
+label{
+    display: block;
 }
 
 footer{
@@ -28,3 +28,10 @@ footer{
 color: rgb(5, 5, 5);
 padding: 10px 0;
 }
+
+
+.outline{
+    border: 1px rgb(176, 172, 172) solid;
+}
+
+
