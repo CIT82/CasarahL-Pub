@@ -1,0 +1,37 @@
+body{
+   font-family: Arial, Helvetica, sans-serif; 
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+header{
+   
+    background-color:rgba(222, 133, 175, 0.932) ;
+   color: rgb(11, 11, 11);
+    padding: 10px 0px;
+   /*border: 10px rgba(241, 53, 53, 0.927) dashed;*/}
+
+
+main{
+    margin: 15px;
+    padding: 15px;
+    background-color: rgba(231, 177, 201, 0.726);
+}
+
+label{
+    display: block;
+}
+
+footer{
+    background-color: rgb(202, 196, 196);
+color: rgb(5, 5, 5);
+padding: 10px 0;
+}
+
+
+.outline{
+    border: 1px rgb(176, 172, 172) solid;
+}
+
+
